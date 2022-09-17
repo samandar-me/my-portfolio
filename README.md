@@ -112,3 +112,54 @@
 • Navigation Component
 • Flow + State
 • Room-Database
+
+#
+## 🦸 Marvel-App
+
+ ![image](https://user-images.githubusercontent.com/95674842/190843604-01ecd0f0-14fa-4b98-b05d-f6356c6dd728.png)
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/MarvelApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Clean Architecture
+• Kotlin
+• MVVM
+• Glide
+• Navigation Component
+
+#
+## 🌀 Compose-news
+
+![image](https://user-images.githubusercontent.com/95674842/190844459-bfd57f51-1436-4dc9-9db5-ffc8e35861f9.png)
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/clean-arch-compose" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Clean Architecture
+• Kotlin
+• Jetpack Compose
+• Goil
+• Lazy Column
+ 
+ #
+## 💥 Movie-List
+
+![image](https://user-images.githubusercontent.com/95674842/190844824-b6830d3c-fb57-4f4a-a6ba-fe91d58b2dd0.png)
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/Movie-App-mvi-flow-coroutines" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Clean Architecture
+• Kotlin
+• MVI
+• Room
+• Jetpack Navigation
