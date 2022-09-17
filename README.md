@@ -219,3 +219,21 @@
 • Retrofit
 • Kotlin Coroutines
 • Git
+
+#
+## ☂️ Proverbs-App
+ 
+![image](https://user-images.githubusercontent.com/95674842/190857314-037afc34-5f78-4f1f-abeb-4c1a4ddd2464.png)
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.sdk.planetnew" target="_blank">
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+<a href="https://github.com/SamandarAsiydinov/ProverbApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Room database
+• Jetpack Navigation
+• Clipboard, Shared Pref Managers
+• Fragments
