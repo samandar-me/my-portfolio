@@ -163,3 +163,40 @@
 • MVI
 • Room
 • Jetpack Navigation
+ 
+#
+## 🪐 Solar System
+ 
+![image](https://user-images.githubusercontent.com/95674842/190846712-017614a2-ee9f-4a3b-9499-c19f1cb984d3.png)
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.sdk.planetnew" target="_blank">
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+<a href="https://github.com/SamandarAsiydinov/SolarSystem" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Room database
+• Firebase
+• MVVM
+• Jetpack Navigation
+• Shared preference
+• Kotlin Coroutines
+  
+#
+## ⚽ Football-App
+
+![image](https://user-images.githubusercontent.com/95674842/190846935-5d9fb052-b164-44fb-b928-12c25a7bae65.png)
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/FootballApp-Mvvm" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• MVVM
+• Glide
+• RecyclerView
+• Retrofit
+• Git
