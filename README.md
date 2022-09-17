@@ -44,7 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/95674842/190842406-2f48d452-4ca4-4a63-9ba1-dda3412de27d.png)
  
- *🎵 Agata Kristi's stories. A collection of audio stories by English detective writer Agatha Christie. You can listen to several detective stories in this app.*
+ *🎵 Agatha Christie's stories. A collection of audio stories by English detective writer Agatha Christie. You can listen to several detective stories in this app.*
 
 <div align="center">
  <a href="https://play.google.com/store/apps/details?id=com.sdk.audiobook" target="_blank">
