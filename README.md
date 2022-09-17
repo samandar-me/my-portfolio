@@ -200,3 +200,22 @@
 • RecyclerView
 • Retrofit
 • Git
+
+#
+## 🏝️ Automatic Image Slider
+
+![image](https://user-images.githubusercontent.com/95674842/190855935-1f8721f9-b3ff-4d7b-a503-604f890460e6.png)
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/ImageSliderWithCompose" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• MVVM
+• Horizontal Pager
+• LazyColumn
+• Retrofit
+• Kotlin Coroutines
+• Git
