@@ -281,3 +281,68 @@
 • Jetpack Compose
 • MVVM
 • Kotlin
+
+## 📸 Camera Capture
+
+![image](https://user-images.githubusercontent.com/95674842/190902495-711b8f4e-4b51-42ad-9505-52a4c83f94ab.png)
+ 
+*📸 Take a picture and selfie using CameraX in Jetpack Compose*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/CameraCapture" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• CameraX
+• Jetpack Compose
+• Kotlin
+
+## 📓 Notes App
+
+![image](https://user-images.githubusercontent.com/95674842/190903500-c3bf69c1-92f2-4db6-8185-308c09c10728.png)
+ 
+*📗 Note App. You can save, update, search, delete your texts*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/NoteAppMVVM" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• MVVM
+• Room Database
+• Kotlin
+• Navigation Component
+
+## 🐊 Bottom Bars
+
+![image](https://user-images.githubusercontent.com/95674842/190904469-df0f5e75-80cd-450f-963c-08b04a015c5d.png)
+ 
+*🦄 Using material components in Jetpack Compose. This project contains Bottom AppBar, BottomSheetDialog, FloatingActionButton...*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/BottomAppBar" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• Material Design
+• Kotlin
+
+## ⚙️ Auto-Slider
+
+![image](https://user-images.githubusercontent.com/95674842/190904744-27a6bf89-7882-409c-9b1c-a28fae7248fc.png)
+
+*💎 Auto sliding images in Horizontal Pager*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/HorizontalSlide" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• Material Design
+• Kotlin
