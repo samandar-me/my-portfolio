@@ -263,3 +263,21 @@
 • Jetpack Navigation
 • Clipboard, Shared Pref Managers
 • Fragments
+
+
+## 🍂 Room-Database
+
+![image](https://user-images.githubusercontent.com/95674842/190894559-0c4b74b2-7f3d-4875-b78e-fde92e3b7240.png)
+ 
+*🌱 Room database with multiple tables. You can get user and user's library data by it id.*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/JetpackWithRoomII" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Room database
+• Jetpack Compose
+• MVVM
+• Kotlin
