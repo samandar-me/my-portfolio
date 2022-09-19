@@ -346,3 +346,23 @@
 • Jetpack Compose
 • Material Design
 • Kotlin
+
+## ⚡Remote-Job
+
+![image](https://user-images.githubusercontent.com/95674842/190951481-240403e0-e92f-43c9-b866-da2319331c2c.png)
+
+*🏆 You can find remote or office job by this app. Usually there are software development jobs.*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/JobsApiApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• MVVM
+• Material Design
+• Kotlin
+• Navigation Component
+• Retrofit
+• Glide
+• Room Database
