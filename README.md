@@ -366,3 +366,23 @@
 • Retrofit
 • Glide
 • Room Database
+
+## 🎈Rick-Morthy
+
+![image](https://user-images.githubusercontent.com/95674842/190957037-6a423d95-b18d-4cdf-89d1-7b6f54bfbeaf.png)
+
+*💣Famous cartoon characters displaying in recyclerview with jeptack-paging library*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/JetpackPaging3" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• MVVM
+• RecyclerView
+• Kotlin
+• Paging library
+• Retrofit
+• Glide
+• Git
