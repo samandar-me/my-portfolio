@@ -386,3 +386,20 @@
 • Retrofit
 • Glide
 • Git
+
+## 🌳Whatapp UI
+
+![image](https://user-images.githubusercontent.com/95674842/191421626-fa306b0e-80a5-4237-b9cf-f71ac12ff490.png)
+
+*☘️ Simple Whatsapp ui design using Jetpack Compose*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/JetpackWhatsAppClone" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• Material Design
+• Kotlin
+• TopAppBar
