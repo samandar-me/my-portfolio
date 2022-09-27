@@ -1,5 +1,23 @@
 ## Samardar's portfolio 🔥
 
+## 🍟 Jet-Food
+
+![image](https://user-images.githubusercontent.com/95674842/192444353-c794e651-425e-4442-bd5b-c09bd193c66a.png)
+
+*🥞 JetFood app. Displays foods in screen. Built with Jetpack Compose*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/jet-food" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• Material Design
+• Kotlin
+• Koin
+• Coil
+
 ## 💰 Coin App
 
 ![photo_2022-09-16_23-36-01](https://user-images.githubusercontent.com/95674842/190840137-7369e0cc-6c37-43db-b15a-a5d889baf76d.jpg)
@@ -403,21 +421,3 @@
 • Material Design
 • Kotlin
 • TopAppBar
-
-## 🍟 Jet-Food
-
-![image](https://user-images.githubusercontent.com/95674842/192444353-c794e651-425e-4442-bd5b-c09bd193c66a.png)
-
-*🥞 JetFood app. Displays foods in screen. Built with Jetpack Compose*
-
-<div align="center">
-<a href="https://github.com/SamandarAsiydinov/jet-food" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• Material Design
-• Kotlin
-• Koin
-• Coil
