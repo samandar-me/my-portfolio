@@ -422,3 +422,22 @@
 • Material Design
 • Kotlin
 • TopAppBar
+
+
+## ☂️ Music Player
+
+![image](https://user-images.githubusercontent.com/95674842/194483943-6a8906b4-0234-4bac-84f0-784bcfaad187.png)
+
+*🎸 Music player app with media player*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/MediaPlayer" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Media Player
+• Material Design
+• Kotlin
+• Navigation Component
+• TopAppBar
