@@ -320,7 +320,25 @@
 • Clipboard, Shared Pref Managers
 • Fragments
 
+#
+## ☘️ Jet-Compose
+  
+ ![image](https://user-images.githubusercontent.com/95674842/194692844-6a925987-9388-4021-b589-7a825c768a33.png)
+ 
+*🍃 Learn Jetpack Compose!*
 
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/ComposeViews" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• Material Design
+• Canvas
+• Lazy*
+ 
+#
 ## 🍂 Room-Database
 
 ![image](https://user-images.githubusercontent.com/95674842/190894559-0c4b74b2-7f3d-4875-b78e-fde92e3b7240.png)
