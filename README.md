@@ -58,6 +58,25 @@
 • Dependency Injection
 • Kotlin Coroutines
   
+ #
+## ☂️ JetView
+
+![image](https://user-images.githubusercontent.com/95674842/194690071-82d4601c-12bf-486b-9be3-7a53ededf532.png)
+ 
+ *🌊 Jetpack Compose UI design examples*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/JetpackViews" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• States and Side effects
+• Material 3
+• Canvas
+• Kotlin Coroutines
+  
 #
 ## 🎶 Audio-Book
 
@@ -241,6 +260,24 @@
 • RecyclerView
 • Retrofit
 • Git
+
+#
+## 🌏 Compose
+
+![image](https://user-images.githubusercontent.com/95674842/194691765-9c230803-79c3-4d7c-b2c6-552e941483d9.png)
+
+*❄️Jetpack Compose UI Design*
+
+<div align="center">
+<a href="https://github.com/SamandarAsiydinov/ComposeSamples" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• Coil
+• Material Components
+• Kotin
 
 #
 ## 🏝️ Automatic Image Slider
