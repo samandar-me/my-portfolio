@@ -522,3 +522,22 @@
 • Material Design
 • Kotlin
 • Navigation Component
+
+#
+## 📝 Jet-Pager
+  
+![image](https://user-images.githubusercontent.com/95674842/195007334-164dc8cd-a6aa-4b83-b8ce-eec613b862e9.png)
+ 
+*💫 Onboarding pages with Jetpack Compose*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/jet-onboarding-screen" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack-Compose
+• Material Design
+• Kotlin
+• DI
+• MVVM
