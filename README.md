@@ -7,7 +7,7 @@
 *🥞 JetFood app. Displays foods in screen. Built with Jetpack Compose*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/jet-food" target="_blank">
+<a href="https://github.com/samandar-mee/jet-food" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -26,7 +26,7 @@
 *💹 Simple Crypto currency app. Bitcoin, Tether, Tron ...*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/coin" target="_blank">
+<a href="https://github.com/samandar-mee/coin" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -46,7 +46,7 @@
  *💚 Product application with Jetpack Compose. Work with Backend API*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/product-app" target="_blank">
+<a href="https://github.com/samandar-mee/product-app" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -66,7 +66,7 @@
  *🌊 Jetpack Compose UI design examples*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/JetpackViews" target="_blank">
+<a href="https://github.com/samandar-mee/JetpackViews" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -87,7 +87,7 @@
 <div align="center">
  <a href="https://play.google.com/store/apps/details?id=com.sdk.audiobook" target="_blank">
 <img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
-<a href="https://github.com/SamandarAsiydinov/audio-book-app-with-exoplayer" target="_blank">
+<a href="https://github.com/samandar-mee/audio-book-app-with-exoplayer" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -110,7 +110,7 @@
 <div align="center">
  <a href="https://play.google.com/store/apps/details?id=com.sdk.drawshape" target="_blank">
 <img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
-<a href="https://github.com/SamandarAsiydinov/draw-shape-with-jetpack-compose" target="_blank">
+<a href="https://github.com/samandar-mee/draw-shape-with-jetpack-compose" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -130,7 +130,7 @@
 *🎼 Detective Audio Book App*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/detective-app-mvvm" target="_blank">
+<a href="https://github.com/samandar-mee/detective-app-mvvm" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -150,7 +150,7 @@
 *🌿 Wallpaper app with Clean Architecture. You can find your favorite images*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/wallpaper-app-with-clean-architecture-flow-coroutines" target="_blank">
+<a href="https://github.com/samandar-mee/wallpaper-app-with-clean-architecture-flow-coroutines" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -171,7 +171,7 @@
 *🦸 Marvel hero app. Marvel counts among its characters such well-known superheroes as Spider-Man, Iron Man, Captain America, Thor, Doctor Strange, Hulk, Wolverine, and Captain Marvel*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/MarvelApp" target="_blank">
+<a href="https://github.com/samandar-mee/MarvelApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -190,7 +190,7 @@
 *🎆 Simple and Basic news app. I used Jetpack Compose*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/clean-arch-compose" target="_blank">
+<a href="https://github.com/samandar-mee/clean-arch-compose" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -209,7 +209,7 @@
 *⚡ Movie-App. I used MVI architecture.*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/Movie-App-mvi-flow-coroutines" target="_blank">
+<a href="https://github.com/samandar-mee/Movie-App-mvi-flow-coroutines" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -230,7 +230,7 @@
 <div align="center">
  <a href="https://play.google.com/store/apps/details?id=com.sdk.planetnew" target="_blank">
 <img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
-<a href="https://github.com/SamandarAsiydinov/SolarSystem" target="_blank">
+<a href="https://github.com/samandar-mee/SolarSystem" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -250,7 +250,7 @@
 *🔮 Football-App. Shows domestic league standings of top football clubs over the last 4-5 years*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/FootballApp-Mvvm" target="_blank">
+<a href="https://github.com/samandar-mee/FootballApp-Mvvm" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -269,7 +269,7 @@
 *❄️Jetpack Compose UI Design*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/ComposeSamples" target="_blank">
+<a href="https://github.com/samandar-mee/ComposeSamples" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -287,7 +287,7 @@
 *⚒️Displays images and data from backend in horizontal pager and lazy column in Jetpack Compose*
  
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/ImageSliderWithCompose" target="_blank">
+<a href="https://github.com/samandar-mee/ImageSliderWithCompose" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -310,7 +310,7 @@
 <div align="center">
  <a href="https://play.google.com/store/apps/details?id=com.sdk.planetnew" target="_blank">
 <img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
-<a href="https://github.com/SamandarAsiydinov/ProverbApp" target="_blank">
+<a href="https://github.com/samandar-mee/ProverbApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -328,7 +328,7 @@
 *🍃 Learn Jetpack Compose!*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/ComposeViews" target="_blank">
+<a href="https://github.com/samandar-mee/ComposeViews" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -346,7 +346,7 @@
 *🌱 Room database with multiple tables. You can get user and user's library data by it id.*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/JetpackWithRoomII" target="_blank">
+<a href="https://github.com/samandar-mee/JetpackWithRoomII" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -356,6 +356,7 @@
 • MVVM
 • Kotlin
 
+#
 ## 📸 Camera Capture
 
 ![image](https://user-images.githubusercontent.com/95674842/190902495-711b8f4e-4b51-42ad-9505-52a4c83f94ab.png)
@@ -363,7 +364,7 @@
 *📸 Take a picture and selfie using CameraX in Jetpack Compose*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/CameraCapture" target="_blank">
+<a href="https://github.com/samandar-mee/CameraCapture" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -372,6 +373,7 @@
 • Jetpack Compose
 • Kotlin
 
+#
 ## 📓 Notes App
 
 ![image](https://user-images.githubusercontent.com/95674842/190903500-c3bf69c1-92f2-4db6-8185-308c09c10728.png)
@@ -379,7 +381,7 @@
 *📗 Note App. You can save, update, search, delete your texts*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/NoteAppMVVM" target="_blank">
+<a href="https://github.com/samandar-mee/NoteAppMVVM" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -389,6 +391,7 @@
 • Kotlin
 • Navigation Component
 
+#
 ## 🐊 Bottom Bars
 
 ![image](https://user-images.githubusercontent.com/95674842/190904469-df0f5e75-80cd-450f-963c-08b04a015c5d.png)
@@ -396,7 +399,7 @@
 *🦄 Using material components in Jetpack Compose. This project contains Bottom AppBar, BottomSheetDialog, FloatingActionButton...*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/BottomAppBar" target="_blank">
+<a href="https://github.com/samandar-mee/BottomAppBar" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -412,7 +415,7 @@
 *💎 Auto sliding images in Horizontal Pager*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/HorizontalSlide" target="_blank">
+<a href="https://github.com/samandar-mee/HorizontalSlide" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -421,6 +424,7 @@
 • Material Design
 • Kotlin
 
+#
 ## ⚡Remote-Job
 
 ![image](https://user-images.githubusercontent.com/95674842/190951481-240403e0-e92f-43c9-b866-da2319331c2c.png)
@@ -428,7 +432,7 @@
 *🏆 You can find remote or office job by this app. Usually there are software development jobs.*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/JobsApiApp" target="_blank">
+<a href="https://github.com/samandar-mee/JobsApiApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -441,6 +445,7 @@
 • Glide
 • Room Database
 
+#
 ## 🎈Rick-Morthy
 
 ![image](https://user-images.githubusercontent.com/95674842/190957037-6a423d95-b18d-4cdf-89d1-7b6f54bfbeaf.png)
@@ -448,7 +453,7 @@
 *💣Famous cartoon characters displaying in recyclerview with jeptack-paging library*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/JetpackPaging3" target="_blank">
+<a href="https://github.com/samandar-mee/JetpackPaging3" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -461,6 +466,7 @@
 • Glide
 • Git
 
+#
 ## 🌳Whatapp UI
 
 ![image](https://user-images.githubusercontent.com/95674842/191421626-fa306b0e-80a5-4237-b9cf-f71ac12ff490.png)
@@ -468,7 +474,7 @@
 *☘️ Simple Whatsapp ui design using Jetpack Compose*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/JetpackWhatsAppClone" target="_blank">
+<a href="https://github.com/samandar-mee/JetpackWhatsAppClone" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -478,7 +484,7 @@
 • Kotlin
 • TopAppBar
 
-
+#
 ## ☂️ Music Player
 
 ![image](https://user-images.githubusercontent.com/95674842/194483943-6a8906b4-0234-4bac-84f0-784bcfaad187.png)
@@ -486,7 +492,7 @@
 *🎸 Music player app with media player*
 
 <div align="center">
-<a href="https://github.com/SamandarAsiydinov/MediaPlayer" target="_blank">
+<a href="https://github.com/samandar-mee/MediaPlayer" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -496,3 +502,23 @@
 • Kotlin
 • Navigation Component
 • TopAppBar
+
+#
+## 📝 Note-Taker
+
+![image](https://user-images.githubusercontent.com/95674842/194994924-9ba6cbd9-484a-43b8-81fe-851812860434.png)
+
+*📘Offline Notepad - Simple Notes is one of those fast and simple notes taking apps that lets you write anything and everything and keep them saved easily and effortlessly.*
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.conamobile.notepad" target="_blank">
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+<a href="https://github.com/samandar-mee/NoteAppWithRoomDB" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Room Database
+• Material Design
+• Kotlin
+• Navigation Component
