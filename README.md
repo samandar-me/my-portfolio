@@ -541,3 +541,41 @@
 • Kotlin
 • DI
 • MVVM
+
+#
+## ✈ Chat-App
+
+![image](https://user-images.githubusercontent.com/95674842/195775532-11be9e09-b940-43e6-b5e2-6bec8661008d.png)
+
+*💬 Chat application with firebase*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/FirebaseChatApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Firebase
+• Material Design
+• Kotlin
+• DI
+• MVVM
+
+#
+##💜 Wallpapers
+
+![image](![image](https://user-images.githubusercontent.com/95674842/195778016-43499154-c47f-4f63-a2af-65de2aea83f0.png))
+
+*🔮 Wallpapers. Displays images came from firebase storage*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/WallpaperApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Firebase
+• Material Design
+• Kotlin
+• Glide
+• MVVM
