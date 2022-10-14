@@ -564,7 +564,7 @@
 #
 ##💜 Wallpapers
 
-![image](![image](https://user-images.githubusercontent.com/95674842/195778016-43499154-c47f-4f63-a2af-65de2aea83f0.png))
+![image](https://user-images.githubusercontent.com/95674842/195778016-43499154-c47f-4f63-a2af-65de2aea83f0.png)
 
 *🔮 Wallpapers. Displays images came from firebase storage*
 
