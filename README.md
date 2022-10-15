@@ -600,3 +600,41 @@
 • Navigation Component
 • Room Database
 • MVVM
+
+#
+## 🃏 Card-Generate-App
+ 
+![image](https://user-images.githubusercontent.com/95674842/195971472-3f2f3922-45ac-44c8-9431-3db32cbab356.png)
+ 
+*🎴 Card generate application with mock api*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/CardApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Retrofit
+• Material Design
+• Kotlin
+• Room Database
+• Mock Api
+ 
+#
+## 🃏 Cat-App
+
+ ![image](https://user-images.githubusercontent.com/95674842/195972910-b918835b-4da9-4ccf-a8fb-b56b6a5a8a53.png)
+
+*🎴 Card generate application with mock api*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/CatApiApplication" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Retrofit
+• Material Design
+• Kotlin
+• Room Database
+• Cat Api
