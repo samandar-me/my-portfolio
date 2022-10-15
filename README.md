@@ -579,3 +579,24 @@
 • Kotlin
 • Glide
 • MVVM
+
+#
+##🆕 News-App
+
+![image](https://user-images.githubusercontent.com/95674842/195971208-cdbb17c2-2d2c-4b43-aae8-a9cdc9c95a2c.png)
+
+*📰 News Application. Displays latest news in recycler-view*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/NewsMVVMApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Retrofit
+• Material Design
+• Kotlin
+• Glide
+• Navigation Component
+• Room Database
+• MVVM
