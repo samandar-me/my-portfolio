@@ -621,11 +621,11 @@
 • Mock Api
  
 #
-## 🃏 Cat-App
+## 🐱‍💻 Cat-App
 
  ![image](https://user-images.githubusercontent.com/95674842/195972910-b918835b-4da9-4ccf-a8fb-b56b6a5a8a53.png)
 
-*🎴 Card generate application with mock api*
+*😻 Cat-App. Displays many cats in list. You can search, upload your cats*
 
 <div align="center">
 <a href="https://github.com/samandar-mee/CatApiApplication" target="_blank">
@@ -638,3 +638,23 @@
 • Kotlin
 • Room Database
 • Cat Api
+
+#
+## 🥀 Pinterest Clone
+
+ ![image](https://user-images.githubusercontent.com/95674842/195973482-2cd34ce8-10bb-4b11-9cfb-e067cffc0d10.png)
+
+*📌Pinterest Clone App. Displays images came from unsplash api. You can save, search your favorite images.*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/PinterestApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Retrofit
+• Material Design
+• Kotlin
+• Room Database
+• Unsplash Api
+• Glide
