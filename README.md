@@ -658,3 +658,55 @@
 • Room Database
 • Unsplash Api
 • Glide
+
+#
+## 🍠 Food-Delivery
+
+![image](https://user-images.githubusercontent.com/95674842/196336510-16e6f801-a1a8-4c0d-a09e-af2cd6bb71dd.png)
+
+*🍔 Food-Delivery App. This app contains uzbek and world foods*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/Food-Delivery" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• RecyclerView
+• Navigation Component
+
+#
+## 🎶 Music App
+
+![image](https://user-images.githubusercontent.com/95674842/196337194-666ffccd-5986-4146-b601-6a3c506990fc.png)
+
+*🎵 This app read songs from device storage by contentresolver and play all*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/MusicApp" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Java
+• ContentResolver
+• Audio Visualizer
+• Media-Player
+
+#
+## ✍️ PDP-Chat App
+
+![image](https://user-images.githubusercontent.com/95674842/196338991-9a5e89e2-5d3e-4392-8e1a-c4f9b225a6bc.png)
+
+*🤖 This app is specially made for PDP-Academy. It works like a chat bot. You can ask your interested questions in this app*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/PDP_AI_CHAT" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Kotlin
+• Mock-Api
+• Volley
+• Gson
