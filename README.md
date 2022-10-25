@@ -1,5 +1,22 @@
 ## Samardar's portfolio 🔥
 
+## 🧨 Big-Text-Shower
+
+![image](https://user-images.githubusercontent.com/95674842/197696375-3fec471a-e9a7-45d5-9b0c-b3c1e825e34d.png)
+
+*💡 Bix-Text-Shower app is displays text as led-matrix*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/big-text-shower" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• CustomView
+• Material Design
+• Kotlin
+• ConstraintLayout
+
 ## 🍟 Jet-Food
 
 ![image](https://user-images.githubusercontent.com/95674842/192444353-c794e651-425e-4442-bd5b-c09bd193c66a.png)
