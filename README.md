@@ -1,5 +1,26 @@
 ## Samardar's portfolio 🔥
 
+#
+## ❤ Jet-Congrats
+
+![image](https://user-images.githubusercontent.com/95674842/201657974-a7b7d69c-40ee-4803-8eea-27ca9f5d2e29.png)
+
+*💡✨ There are poems, congrats and happy texts in this project*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/jet-congrats" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• Clean Architecture
+• Material 3
+• Kotlin Coroutines
+• Firebase
+• MVVM
+
+#
 ## 🧨 Big-Text-Shower
 
 ![image](https://user-images.githubusercontent.com/95674842/197696375-3fec471a-e9a7-45d5-9b0c-b3c1e825e34d.png)
