@@ -1,6 +1,25 @@
 ## Samardar's portfolio 🔥
 
 #
+## ⚡️ Dice-Game
+
+![telegram-cloud-photo-size-2-5350630340386996451-y](https://user-images.githubusercontent.com/95674842/213085137-f21ed8bb-4e1a-40de-b45d-1d0bce2e3dc6.jpg)
+
+*🎲 A Simple dice roller game with Jetpack Compose*
+
+<div align="center">
+<a href="https://github.com/samandar-mee/dice-game" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• MVVM-Architecture
+• Material Design 3
+• Kotlin
+• Jetpack Compose
+• Kotlin Coroutines
+
+#
 ## ⚡️ Kojet
 
 ![image](https://user-images.githubusercontent.com/95674842/206915184-d2d1e7bc-fac5-4e52-a8a5-f332e90fc233.png)
