@@ -1,7 +1,7 @@
 ## Samardar's portfolio 🔥
 
 #
-## ⚡️ Dice-Game
+## 🕹 Dice-Game
 
 ![telegram-cloud-photo-size-2-5350630340386996451-y](https://user-images.githubusercontent.com/95674842/213085137-f21ed8bb-4e1a-40de-b45d-1d0bce2e3dc6.jpg)
 
