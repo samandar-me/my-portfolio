@@ -1,6 +1,30 @@
 ## Samardar's portfolio 🔥
 
 #
+## 🥗 Palov
+
+<img width="100%" alt="image" src="https://user-images.githubusercontent.com/95674842/216655174-955bea1c-ce98-455a-875e-a7426a431851.png">
+
+<img width="100%" alt="image" src="https://user-images.githubusercontent.com/95674842/216657131-67751ca5-01fb-4a72-8275-d56ce2531cf3.png">
+
+*🌮 Dish App With Jetpack Compose*
+
+<div align="center">
+<a href="https://github.com/samandar-me/palov" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+### Tools
+• Jetpack Compose
+• Material Design 3
+• Clean Architecture
+• MVVM
+• Kotlin Coroutines
+• Networking
+• Room Database
+• Kotlin-DSL
+
+#
 ## 🕹 Dice-Game
 
 ![telegram-cloud-photo-size-2-5350630340386996451-y](https://user-images.githubusercontent.com/95674842/213085137-f21ed8bb-4e1a-40de-b45d-1d0bce2e3dc6.jpg)
