@@ -1,6 +1,22 @@
 ## Samardar's portfolio 🔥
 
 #
+## ✍ Appeals and Problems Sending App
+
+<img width="100%" alt="image" src="https://user-images.githubusercontent.com/95674842/223934578-284d43c5-e5e3-48b8-975d-151743f9dde1.jpg">
+
+* Registration and consideration of citizen appeals, preparing and sending responses to appeals. *
+
+### Tools
+• Material Design 3
+• Clean Architecture
+• MVVM
+• Kotlin Coroutines
+• Networking
+• Room Database
+• Kotlin-DSL
+
+#
 ## 🥗 Palov
 
 <img width="100%" alt="image" src="https://user-images.githubusercontent.com/95674842/216655174-955bea1c-ce98-455a-875e-a7426a431851.png">
