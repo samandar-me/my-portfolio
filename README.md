@@ -1,5 +1,24 @@
 ## Samardar's portfolio 🔥
 
+# 
+## 💜 Anime-App
+
+<img width="100%" alt="image" src="https://user-images.githubusercontent.com/95674842/233340000-0f94c097-67c8-4488-bef2-1b1724435961.png">
+
+* 💜 Displays Anime Characters. Built with Kotlin Multiplatform Mobile. Share common code between Android and iOS. UI is native Jetpack Compose and SwiftUI *
+
+### Tools
+• Kotlin Multiplatform
+• Jetpack Compose
+• SwiftUI
+• Ktor
+• Koin
+
+<div align="center">
+<a href="https://github.com/samandar-me/anime-kmm" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
 #
 ## ✍ Appeals and Problems Sending App
 
