@@ -1,5 +1,25 @@
 ## Samardar's portfolio 🔥
 
+#
+## Governor Academy.
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/77f4a7d7-de91-47b5-b338-ef734bc88582">
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/40746082-78b0-4537-b84a-e867665e6f2b">
+
+
+* An online platform for students who want to enter the Hokim Academy-President School, applicants, young people who are eager to learn a foreign language, and teachers who want to improve their skills*
+
+### Tools
+• Jetpack Compose
+• Material Design 3
+• Clean Architecture
+• MVVM
+• Kotlin Coroutines
+• Networking
+• DataStore
+• Kotlin-DSL
+
 # 
 ## 💜 Anime-App
 
