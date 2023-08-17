@@ -1,6 +1,20 @@
 ## Samardar's portfolio 🔥
 
 #
+## Guess Game with Kotlin Multiplatform and Compose Multiplatform
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/cmp-guess-game/assets/95674842/032b1c1e-3263-48e7-b9b4-7de6bdbec3c8">
+
+* Simple app to learn KMP
+
+### Tools
+• Kotlin
+• Material Design 3
+• Compose
+• MVVM
+• Kotlin Coroutines
+
+#
 ## Governor Academy.
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/77f4a7d7-de91-47b5-b338-ef734bc88582">
@@ -8,7 +22,7 @@
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/40746082-78b0-4537-b84a-e867665e6f2b">
 
 
-* An online platform for students who want to enter the Hokim Academy-President School, applicants, young people who are eager to learn a foreign language, and teachers who want to improve their skills*
+* An online platform for students who want to enter the Hokim Academy-President School, applicants, young people who are eager to learn a foreign language, and teachers who want to improve their skills
 
 ### Tools
 • Jetpack Compose
@@ -25,7 +39,7 @@
 
 <img width="100%" alt="image" src="https://user-images.githubusercontent.com/95674842/233340000-0f94c097-67c8-4488-bef2-1b1724435961.png">
 
-* 💜 Displays Anime Characters. Built with Kotlin Multiplatform Mobile. Share common code between Android and iOS. UI is native Jetpack Compose and SwiftUI *
+* 💜 Displays Anime Characters. Built with Kotlin Multiplatform Mobile. Share common code between Android and iOS. UI is native Jetpack Compose and SwiftUI 
 
 ### Tools
 • Kotlin Multiplatform
