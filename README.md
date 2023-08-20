@@ -1,6 +1,21 @@
 ## Samardar's portfolio 🔥
 
 #
+## Chat Bot App with Kotlin Multiplatform and Compose Multiplatform
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/cmp-chatter/assets/95674842/f8c0308b-998d-4a46-bb6c-370a02d7b7e5">
+
+* Simple app to learn KMP
+
+### Tools
+• Kotlin
+• Material Design 3
+• Compose Mutiplatform
+• MVVM
+• Kotlin Coroutines
+• Ktor
+
+#
 ## Guess Game with Kotlin Multiplatform and Compose Multiplatform
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/cmp-guess-game/assets/95674842/032b1c1e-3263-48e7-b9b4-7de6bdbec3c8">
