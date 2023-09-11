@@ -1,6 +1,5 @@
 ## Samardar's portfolio 🔥
 
-#
 ## Task App
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/67395c83-d3a0-403d-bdfa-906487c08b1a">
