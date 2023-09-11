@@ -1,6 +1,22 @@
 ## Samardar's portfolio 🔥
 
 #
+## Task App
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/67395c83-d3a0-403d-bdfa-906487c08b1a">
+
+* Test application for ZBEKZ LLC
+
+### Tools
+• Kotlin
+• Material Design 3
+• Jetpack Compose
+• Clean Architecture
+• Kotlin Coroutines
+• Retrofit
+• ExoPlayer
+
+#
 ## Chat Bot App with Kotlin Multiplatform and Compose Multiplatform
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/cmp-chatter/assets/95674842/f8c0308b-998d-4a46-bb6c-370a02d7b7e5">
