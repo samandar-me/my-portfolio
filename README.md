@@ -16,7 +16,7 @@
 • Kotlin Coroutines
 
 <div align="center">
-<a href="https://github.com/samandar-mee/novelty" target="_blank">
+<a href="https://github.com/samandar-me/novelty" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -638,7 +638,7 @@
 *💎 Auto sliding images in Horizontal Pager*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/HorizontalSlide" target="_blank">
+<a href="https://github.com/samandar-me/HorizontalSlide" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -655,7 +655,7 @@
 *🏆 You can find remote or office job by this app. Usually there are software development jobs.*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/JobsApiApp" target="_blank">
+<a href="https://github.com/samandar-me/JobsApiApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -676,7 +676,7 @@
 *💣Famous cartoon characters displaying in recyclerview with jeptack-paging library*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/JetpackPaging3" target="_blank">
+<a href="https://github.com/samandar-me/JetpackPaging3" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -697,7 +697,7 @@
 *☘️ Simple Whatsapp ui design using Jetpack Compose*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/JetpackWhatsAppClone" target="_blank">
+<a href="https://github.com/samandar-me/JetpackWhatsAppClone" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -715,7 +715,7 @@
 *🎸 Music player app with media player*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/MediaPlayer" target="_blank">
+<a href="https://github.com/samandar-me/MediaPlayer" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -754,7 +754,7 @@
 *💫 Onboarding pages with Jetpack Compose*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/jet-onboarding-screen" target="_blank">
+<a href="https://github.com/samandar-me/jet-onboarding-screen" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -773,7 +773,7 @@
 *💬 Chat application with firebase*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/FirebaseChatApp" target="_blank">
+<a href="https://github.com/samandar-me/FirebaseChatApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -792,7 +792,7 @@
 *🔮 Wallpapers. Displays images came from firebase storage*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/WallpaperApp" target="_blank">
+<a href="https://github.com/samandar-me/WallpaperApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -811,7 +811,7 @@
 *🎴 Card generate application with mock api*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/CardApp" target="_blank">
+<a href="https://github.com/samandar-me/CardApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -830,7 +830,7 @@
 *😻 Cat-App. Displays many cats in list. You can search, upload your cats*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/CatApiApplication" target="_blank">
+<a href="https://github.com/samandar-me/CatApiApplication" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -849,7 +849,7 @@
 *📌Pinterest Clone App. Displays images came from unsplash api. You can save, search your favorite images.*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/PinterestApp" target="_blank">
+<a href="https://github.com/samandar-me/PinterestApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -869,7 +869,7 @@
 *🍔 Food-Delivery App. This app contains uzbek and world foods*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/Food-Delivery" target="_blank">
+<a href="https://github.com/samandar-me/Food-Delivery" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -885,7 +885,7 @@
 *🎵 This app read songs from device storage by contentresolver and play all*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/MusicApp" target="_blank">
+<a href="https://github.com/samandar-me/MusicApp" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
@@ -903,7 +903,7 @@
 *🤖 This app is specially made for PDP-Academy. It works like a chat bot. You can ask your interested questions in this app*
 
 <div align="center">
-<a href="https://github.com/samandar-mee/PDP_AI_CHAT" target="_blank">
+<a href="https://github.com/samandar-me/PDP_AI_CHAT" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
 
