@@ -1,5 +1,22 @@
 ## Samardar's portfolio 🔥
 
+## Novelty
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/novelty/assets/95674842/5daeb6df-eac8-4420-b9fe-c8ecaad6c76e">
+
+* Compose Multiplatform News App
+
+### Tools
+• Kotlin Multiplatform
+• Compose Multplatform
+• Material Design 3
+• Sqldelight
+• Ktor
+• Voyager
+• Kotlin Coroutines
+
+#
+
 ## Task App
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/67395c83-d3a0-403d-bdfa-906487c08b1a">
