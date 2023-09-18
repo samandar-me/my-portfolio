@@ -15,6 +15,11 @@
 • Voyager
 • Kotlin Coroutines
 
+<div align="center">
+<a href="https://github.com/samandar-mee/novelty" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
 #
 
 ## Task App
