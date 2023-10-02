@@ -1,5 +1,21 @@
 ## Samardar's portfolio 🔥
 
+## Smart Parking
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/5c6e1656-0869-4c01-8ace-142f4c56c75d">
+
+* Car parking app for my company Digital City.
+
+### Tools
+• Flutter
+• Dart
+• Material Design 3
+• Bloc
+• Http
+• Clean Architecture
+
+#
+
 ## Novelty
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/novelty/assets/95674842/302c0401-9912-4d15-815e-14911d9d6089">
