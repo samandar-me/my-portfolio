@@ -1,5 +1,20 @@
 ## Samardar's portfolio 🔥
 
+## Cinema
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/cinema/assets/95674842/957d8761-02ac-48c1-be7b-cc355faa9244">
+
+* Pet project with Compose Multiplatform for Android and iOS.
+
+### Tools
+• Compose Multiplatform
+• Kotlin
+• Decompose
+• MVI
+• Ktor
+
+#
+
 ## Smart Parking
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/5c6e1656-0869-4c01-8ace-142f4c56c75d">
@@ -422,44 +437,6 @@
 • Navigation Component
 
 #
-## 🌀 Compose-news
-
-![image](https://user-images.githubusercontent.com/95674842/190844459-bfd57f51-1436-4dc9-9db5-ffc8e35861f9.png)
- 
-*🎆 Simple and Basic news app. I used Jetpack Compose*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/clean-arch-compose" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Clean Architecture
-• Kotlin
-• Jetpack Compose
-• Goil
-• Lazy Column
- 
- #
-## 💥 Movie-List
-
-![image](https://user-images.githubusercontent.com/95674842/190844824-b6830d3c-fb57-4f4a-a6ba-fe91d58b2dd0.png)
- 
-*⚡ Movie-App. I used MVI architecture.*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/Movie-App-mvi-flow-coroutines" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Clean Architecture
-• Kotlin
-• MVI
-• Room
-• Jetpack Navigation
- 
-#
 ## 🪐 Solar System
  
 ![image](https://user-images.githubusercontent.com/95674842/190846712-017614a2-ee9f-4a3b-9499-c19f1cb984d3.png)
@@ -578,24 +555,6 @@
 • Lazy*
  
 #
-## 🍂 Room-Database
-
-![image](https://user-images.githubusercontent.com/95674842/190894559-0c4b74b2-7f3d-4875-b78e-fde92e3b7240.png)
- 
-*🌱 Room database with multiple tables. You can get user and user's library data by it id.*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/JetpackWithRoomII" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Room database
-• Jetpack Compose
-• MVVM
-• Kotlin
-
-#
 ## 📸 Camera Capture
 
 ![image](https://user-images.githubusercontent.com/95674842/190902495-711b8f4e-4b51-42ad-9505-52a4c83f94ab.png)
@@ -631,21 +590,6 @@
 • Navigation Component
 
 #
-## 🐊 Bottom Bars
-
-![image](https://user-images.githubusercontent.com/95674842/190904469-df0f5e75-80cd-450f-963c-08b04a015c5d.png)
- 
-*🦄 Using material components in Jetpack Compose. This project contains Bottom AppBar, BottomSheetDialog, FloatingActionButton...*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/BottomAppBar" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• Material Design
-• Kotlin
 
 ## ⚙️ Auto-Slider
 
@@ -683,27 +627,6 @@
 • Retrofit
 • Glide
 • Room Database
-
-#
-## 🎈Rick-Morthy
-
-![image](https://user-images.githubusercontent.com/95674842/190957037-6a423d95-b18d-4cdf-89d1-7b6f54bfbeaf.png)
-
-*💣Famous cartoon characters displaying in recyclerview with jeptack-paging library*
-
-<div align="center">
-<a href="https://github.com/samandar-me/JetpackPaging3" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• MVVM
-• RecyclerView
-• Kotlin
-• Paging library
-• Retrofit
-• Glide
-• Git
 
 #
 ## 🌳Whatapp UI
