@@ -1,5 +1,24 @@
 ## Samardar's portfolio 🔥
 
+## K-Love 
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/5035e8b5-5d90-42d4-9d3c-0f97a009f336">
+
+* 🧡 Simple Compose App for Android, iOS and Desktop.
+
+### Tools
+• Compose Multiplatform
+• Kotlin
+• Ktorfit
+• Precompose
+
+<div align="center">
+<a href="https://github.com/samandar-me/k-love" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
+#
+
 ## Cinema
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/cinema/assets/95674842/957d8761-02ac-48c1-be7b-cc355faa9244">
