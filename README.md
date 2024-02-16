@@ -1,5 +1,48 @@
 ## Samardar's portfolio 🔥
 
+## Social Balance (iOS) 
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/0fb82939-8136-481f-8bc3-16f46cbd1f05">
+
+* Parental Control & Learning Platform for the client 🦩.
+
+### Tools
+• Flutter SDK
+• Dart
+• Swift
+• Crossplatform
+
+# I will give the link soon...
+
+<div align="center">
+ <a href="" target="_blank">
+<img src=https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+</div>
+#
+
+## Social Balance (Android) - Parental Control & Learning Platform for the client ⚖️
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/5904ab9f-3553-4267-bff5-f2faaee5b44d">
+
+* Parental Control & Learning Platform for the client 🦩.
+
+### Tools
+• Android SDK
+• Jetpack Compose
+• Kotlin
+• Java
+#
+
+<div align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.conamobile.socialbalance" target="_blank">
+<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+</div>
+#
+
+## K-Love 
+
+<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/5035e8b5-5d90-42d4-9d3c-0f97a009f336">
+
 ## Tagline - Chat App for Client
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/22dd1cf7-bd58-4c14-8429-11d968382c47">
