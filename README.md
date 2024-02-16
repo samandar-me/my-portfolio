@@ -1,5 +1,12 @@
 ## Samardar's portfolio 🔥
 
+#### Check my youtube channel❗️ 
+
+<div align="center">
+ <a href="https://youtube.com/@SamandarSdk" target="_blank">
+<img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=playstore style="margin-bottom: 5px;" />
+</div>
+
 ## Social Balance (iOS) 
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/0fb82939-8136-481f-8bc3-16f46cbd1f05">
