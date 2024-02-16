@@ -46,10 +46,6 @@
 </div>
 #
 
-## K-Love 
-
-<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/5035e8b5-5d90-42d4-9d3c-0f97a009f336">
-
 ## Tagline - Chat App for Client
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/22dd1cf7-bd58-4c14-8429-11d968382c47">
