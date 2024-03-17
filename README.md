@@ -21,11 +21,6 @@
 • MVI
 • Decompose
 
-<div align="center">
- <a href="" target="_blank">
-<img src=https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white alt=playstore style="margin-bottom: 5px;" />
-</div>
-
 ## Social Balance (iOS) 
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/0fb82939-8136-481f-8bc3-16f46cbd1f05">
