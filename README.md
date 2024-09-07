@@ -1,6 +1,6 @@
 ## Samardar's portfolio 🔥
 
-#### Check my youtube channel❗️ 
+### Check my youtube channel❗️ 
 
 <div align="center">
  <a href="https://youtube.com/@SamandarSdk" target="_blank">
