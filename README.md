@@ -81,24 +81,6 @@
 • Dart
 • BloC
 • Firebase
-#
-
-## K-Love 
-
-<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/5035e8b5-5d90-42d4-9d3c-0f97a009f336">
-
-* 🧡 Simple Compose App for Android, iOS and Desktop.
-
-### Tools
-• Compose Multiplatform
-• Kotlin
-• Ktorfit
-• Precompose
-
-<div align="center">
-<a href="https://github.com/samandar-me/k-love" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
 
 #
 
@@ -160,23 +142,6 @@
 </div>
 
 #
-
-## Task App
-
-<img width="100%" alt="image" src="https://github.com/samandar-me/my-portfolio/assets/95674842/67395c83-d3a0-403d-bdfa-906487c08b1a">
-
-* Test application for ZBEKZ LLC
-
-### Tools
-• Kotlin
-• Material Design 3
-• Jetpack Compose
-• Clean Architecture
-• Kotlin Coroutines
-• Retrofit
-• ExoPlayer
-
-#
 ## Chat Bot App with Kotlin Multiplatform and Compose Multiplatform
 
 <img width="100%" alt="image" src="https://github.com/samandar-me/cmp-chatter/assets/95674842/f8c0308b-998d-4a46-bb6c-370a02d7b7e5">
@@ -192,11 +157,6 @@
 • Ktor
 
 #
-## Guess Game with Kotlin Multiplatform and Compose Multiplatform
-
-<img width="100%" alt="image" src="https://github.com/samandar-me/cmp-guess-game/assets/95674842/032b1c1e-3263-48e7-b9b4-7de6bdbec3c8">
-
-* Simple app to learn KMP
 
 ### Tools
 • Kotlin
@@ -225,26 +185,8 @@
 • DataStore
 • Kotlin-DSL
 
-# 
-## 💜 Anime-App
-
-<img width="100%" alt="image" src="https://user-images.githubusercontent.com/95674842/233340000-0f94c097-67c8-4488-bef2-1b1724435961.png">
-
-* 💜 Displays Anime Characters. Built with Kotlin Multiplatform Mobile. Share common code between Android and iOS. UI is native Jetpack Compose and SwiftUI 
-
-### Tools
-• Kotlin Multiplatform
-• Jetpack Compose
-• SwiftUI
-• Ktor
-• Koin
-
-<div align="center">
-<a href="https://github.com/samandar-me/anime-kmm" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
 #
+
 ## ✍ Appeals and Problems Sending App
 
 <img width="100%" alt="image" src="https://user-images.githubusercontent.com/95674842/223934578-284d43c5-e5e3-48b8-975d-151743f9dde1.jpg">
@@ -361,26 +303,9 @@
 • Material Design
 • Kotlin
 • ConstraintLayout
-
-## 🍟 Jet-Food
-
-![image](https://user-images.githubusercontent.com/95674842/192444353-c794e651-425e-4442-bd5b-c09bd193c66a.png)
-
-*🥞 JetFood app. Displays foods in screen. Built with Jetpack Compose*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/jet-food" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• Material Design
-• Kotlin
-• Koin
-• Coil
  
 #
+
 ## 💰 Coin App
 
 ![photo_2022-09-16_23-36-01](https://user-images.githubusercontent.com/95674842/190840137-7369e0cc-6c37-43db-b15a-a5d889baf76d.jpg)
@@ -399,45 +324,6 @@
 • Dependency Injection
 • Kotlin Coroutines
 • Coil
-
-#
-## 🏗️ Product App
-
-![image](https://user-images.githubusercontent.com/95674842/190841182-1cacd247-5d90-432e-b92c-a1b970c1e5a8.png)
- 
- *💚 Product application with Jetpack Compose. Work with Backend API*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/product-app" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Clean Architecture
-• Jetpack Compose
-• States and Side effects
-• Material 3
-• Dependency Injection
-• Kotlin Coroutines
-  
- #
-## ☂️ JetView
-
-![image](https://user-images.githubusercontent.com/95674842/194690071-82d4601c-12bf-486b-9be3-7a53ededf532.png)
- 
- *🌊 Jetpack Compose UI design examples*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/JetpackViews" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• States and Side effects
-• Material 3
-• Canvas
-• Kotlin Coroutines
   
 #
 ## 🎶 Audio-Book
@@ -526,25 +412,6 @@
 • Room-Database
 
 #
-## 🦸 Marvel-App
-
- ![image](https://user-images.githubusercontent.com/95674842/190843604-01ecd0f0-14fa-4b98-b05d-f6356c6dd728.png)
- 
-*🦸 Marvel hero app. Marvel counts among its characters such well-known superheroes as Spider-Man, Iron Man, Captain America, Thor, Doctor Strange, Hulk, Wolverine, and Captain Marvel*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/MarvelApp" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Clean Architecture
-• Kotlin
-• MVVM
-• Glide
-• Navigation Component
-
-#
 ## 🪐 Solar System
  
 ![image](https://user-images.githubusercontent.com/95674842/190846712-017614a2-ee9f-4a3b-9499-c19f1cb984d3.png)
@@ -565,64 +432,6 @@
 • Jetpack Navigation
 • Shared preference
 • Kotlin Coroutines
-  
-#
-## ⚽ Football-App
-
-![image](https://user-images.githubusercontent.com/95674842/190846935-5d9fb052-b164-44fb-b928-12c25a7bae65.png)
-  
-*🔮 Football-App. Shows domestic league standings of top football clubs over the last 4-5 years*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/FootballApp-Mvvm" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• MVVM
-• Glide
-• RecyclerView
-• Retrofit
-• Git
-
-#
-## 🌏 Compose
-
-![image](https://user-images.githubusercontent.com/95674842/194691765-9c230803-79c3-4d7c-b2c6-552e941483d9.png)
-
-*❄️Jetpack Compose UI Design*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/ComposeSamples" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• Coil
-• Material Components
-• Kotin
-
-#
-## 🏝️ Automatic Image Slider
-
-![image](https://user-images.githubusercontent.com/95674842/190855935-1f8721f9-b3ff-4d7b-a503-604f890460e6.png)
-
-*⚒️Displays images and data from backend in horizontal pager and lazy column in Jetpack Compose*
- 
-<div align="center">
-<a href="https://github.com/samandar-mee/ImageSliderWithCompose" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• MVVM
-• Horizontal Pager
-• LazyColumn
-• Retrofit
-• Kotlin Coroutines
-• Git
 
 #
 ## ☂️ Proverbs-App
@@ -643,77 +452,6 @@
 • Jetpack Navigation
 • Clipboard, Shared Pref Managers
 • Fragments
-
-#
-## ☘️ Jet-Compose
-  
- ![image](https://user-images.githubusercontent.com/95674842/194692844-6a925987-9388-4021-b589-7a825c768a33.png)
- 
-*🍃 Learn Jetpack Compose!*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/ComposeViews" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• Material Design
-• Canvas
-• Lazy*
- 
-#
-## 📸 Camera Capture
-
-![image](https://user-images.githubusercontent.com/95674842/190902495-711b8f4e-4b51-42ad-9505-52a4c83f94ab.png)
- 
-*📸 Take a picture and selfie using CameraX in Jetpack Compose*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/CameraCapture" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• CameraX
-• Jetpack Compose
-• Kotlin
-
-#
-## 📓 Notes App
-
-![image](https://user-images.githubusercontent.com/95674842/190903500-c3bf69c1-92f2-4db6-8185-308c09c10728.png)
- 
-*📗 Note App. You can save, update, search, delete your texts*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/NoteAppMVVM" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• MVVM
-• Room Database
-• Kotlin
-• Navigation Component
-
-#
-
-## ⚙️ Auto-Slider
-
-![image](https://user-images.githubusercontent.com/95674842/190904744-27a6bf89-7882-409c-9b1c-a28fae7248fc.png)
-
-*💎 Auto sliding images in Horizontal Pager*
-
-<div align="center">
-<a href="https://github.com/samandar-me/HorizontalSlide" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• Material Design
-• Kotlin
 
 #
 ## ⚡Remote-Job
@@ -737,101 +475,6 @@
 • Room Database
 
 #
-## 🌳Whatapp UI
-
-![image](https://user-images.githubusercontent.com/95674842/191421626-fa306b0e-80a5-4237-b9cf-f71ac12ff490.png)
-
-*☘️ Simple Whatsapp ui design using Jetpack Compose*
-
-<div align="center">
-<a href="https://github.com/samandar-me/JetpackWhatsAppClone" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack Compose
-• Material Design
-• Kotlin
-• TopAppBar
-
-#
-## ☂️ Music Player
-
-![image](https://user-images.githubusercontent.com/95674842/194483943-6a8906b4-0234-4bac-84f0-784bcfaad187.png)
-
-*🎸 Music player app with media player*
-
-<div align="center">
-<a href="https://github.com/samandar-me/MediaPlayer" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Media Player
-• Material Design
-• Kotlin
-• Navigation Component
-• TopAppBar
-
-#
-## 📝 Note-Taker
-
-![image](https://user-images.githubusercontent.com/95674842/194994924-9ba6cbd9-484a-43b8-81fe-851812860434.png)
-
-*📘Offline Notepad - Simple Notes is one of those fast and simple notes taking apps that lets you write anything and everything and keep them saved easily and effortlessly.*
-
-<div align="center">
- <a href="https://play.google.com/store/apps/details?id=com.conamobile.notepad" target="_blank">
-<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
-<a href="https://github.com/samandar-mee/NoteAppWithRoomDB" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Room Database
-• Material Design
-• Kotlin
-• Navigation Component
-
-#
-## 📝 Jet-Pager
-  
-![image](https://user-images.githubusercontent.com/95674842/195007334-164dc8cd-a6aa-4b83-b8ce-eec613b862e9.png)
- 
-*💫 Onboarding pages with Jetpack Compose*
-
-<div align="center">
-<a href="https://github.com/samandar-me/jet-onboarding-screen" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Jetpack-Compose
-• Material Design
-• Kotlin
-• DI
-• MVVM
-
-#
-## ✈ Chat-App
-
-![image](https://user-images.githubusercontent.com/95674842/195775532-11be9e09-b940-43e6-b5e2-6bec8661008d.png)
-
-*💬 Chat application with firebase*
-
-<div align="center">
-<a href="https://github.com/samandar-me/FirebaseChatApp" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Firebase
-• Material Design
-• Kotlin
-• DI
-• MVVM
-
-#
 ##💜 Wallpapers
 
 ![image](https://user-images.githubusercontent.com/95674842/195778016-43499154-c47f-4f63-a2af-65de2aea83f0.png)
@@ -849,44 +492,6 @@
 • Kotlin
 • Glide
 • MVVM
-
-#
-## 🃏 Card-Generate-App
- 
-![image](https://user-images.githubusercontent.com/95674842/195971472-3f2f3922-45ac-44c8-9431-3db32cbab356.png)
- 
-*🎴 Card generate application with mock api*
-
-<div align="center">
-<a href="https://github.com/samandar-me/CardApp" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Retrofit
-• Material Design
-• Kotlin
-• Room Database
-• Mock Api
- 
-#
-## 🐱‍💻 Cat-App
-
- ![image](https://user-images.githubusercontent.com/95674842/195972910-b918835b-4da9-4ccf-a8fb-b56b6a5a8a53.png)
-
-*😻 Cat-App. Displays many cats in list. You can search, upload your cats*
-
-<div align="center">
-<a href="https://github.com/samandar-me/CatApiApplication" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Retrofit
-• Material Design
-• Kotlin
-• Room Database
-• Cat Api
 
 #
 ## 🥀 Pinterest Clone
@@ -941,21 +546,3 @@
 • ContentResolver
 • Audio Visualizer
 • Media-Player
-
-#
-## ✍️ PDP-Chat App
-
-![image](https://user-images.githubusercontent.com/95674842/196338991-9a5e89e2-5d3e-4392-8e1a-c4f9b225a6bc.png)
-
-*🤖 This app is specially made for PDP-Academy. It works like a chat bot. You can ask your interested questions in this app*
-
-<div align="center">
-<a href="https://github.com/samandar-me/PDP_AI_CHAT" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
-### Tools
-• Kotlin
-• Mock-Api
-• Volley
-• Gson
