@@ -306,26 +306,6 @@
  
 #
 
-## 💰 Coin App
-
-![photo_2022-09-16_23-36-01](https://user-images.githubusercontent.com/95674842/190840137-7369e0cc-6c37-43db-b15a-a5d889baf76d.jpg)
-
-*💹 Simple Crypto currency app. Bitcoin, Tether, Tron ...*
-
-<div align="center">
-<a href="https://github.com/samandar-mee/coin" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>
-
- ### Tools
-• Jetpack Compose
-• Clean Architecture
-• Material 3
-• Dependency Injection
-• Kotlin Coroutines
-• Coil
-  
-#
 ## 🎶 Audio-Book
 
 ![image](https://user-images.githubusercontent.com/95674842/190842406-2f48d452-4ca4-4a63-9ba1-dda3412de27d.png)
